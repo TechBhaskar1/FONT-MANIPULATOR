@@ -52,3 +52,8 @@ input{
     height: 40px;
     margin-top: -5px;
 }
+#size{
+    font-size: 30px;
+    font-family:monospace;
+    font-variant: normal;
+}
